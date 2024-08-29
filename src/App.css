@@ -1,0 +1,7 @@
+.App{
+    width: 90%;
+    margin: 0 auto;
+    height: auto;
+    background: content-box radial-gradient(white,#30165c); 
+    color: white;
+}

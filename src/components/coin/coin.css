@@ -1,0 +1,18 @@
+.coin01{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    padding-top: 20px;
+}
+.coin01 >div{
+    width: 300px;
+    height: 100px;
+    border-radius: 12px;
+}
+.coin1,
+.coin2,
+.coin3{
+    display: flex;
+    background: content-box radial-gradient(white,#251345 );
+}

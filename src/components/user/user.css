@@ -1,0 +1,15 @@
+.User{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 20px;
+}
+.User div{
+    display: flex;
+    align-items: center;
+
+}
+.User div h3{
+    color: aqua;
+}

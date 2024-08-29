@@ -1,0 +1,14 @@
+.trade1{
+  display: flex;
+    padding-top: 80px;
+    align-items: center;
+    justify-content: center;
+}
+.trade3,
+.trade4,
+.trade5{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}

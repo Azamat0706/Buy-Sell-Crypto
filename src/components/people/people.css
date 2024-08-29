@@ -1,0 +1,41 @@
+.people2{
+    width: 870px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.people3{
+    width: 870px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+.shadow:hover{
+    font-size: 1.5rem;
+   border-radius: 6px;
+   background: rgb(80, 79, 79);
+}
+.fex{
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.fex img{
+    width: 50px;
+}
+.fax{
+    display: flex;
+    align-items: center;
+    padding-left: 13rem;
+    padding-top: 30px;
+    gap: 7rem;
+}
+.fax img{
+    width: 150px;
+}

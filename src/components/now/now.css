@@ -1,0 +1,24 @@
+.now1{
+    display: flex;
+    width: 900px;
+    margin-left: 15rem;
+    background: rgb(79, 78, 78);
+    align-items: center;
+    justify-content: center;
+    gap: 20rem;
+    height: 25vh;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.now2{
+    display: flex;
+    flex-direction: column;
+}
+.button{
+    width: 90px;
+    height: 40px;
+    border-radius: 10px;
+    border-style: none;
+    color: black;
+    background: aqua;
+}
